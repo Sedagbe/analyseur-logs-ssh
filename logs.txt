@@ -1,0 +1,4 @@
+Jan 12 12:23:54 server sshd[512]: Failed password for root from 192.168.1.15 port 55432 ssh2
+Jan 12 12:24:02 server sshd[515]: Failed password for root from 192.168.1.15 port 55432 ssh2
+Jan 12 12:25:03 server sshd[518]: Accepted password for admin from 192.168.1.10 port 44222 ssh2
+Jan 12 12:26:08 server sshd[522]: Failed password for admin from 192.168.1.50 port 60000 ssh2

@@ -1,0 +1,2 @@
+192.168.1.15 : 2 tentatives echouees
+192.168.1.50 : 1 tentatives echouees
